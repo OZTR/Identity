@@ -23,7 +23,7 @@ APL: DTR
 Do not post issues about non-bitcoin versions of Electrum. -->
 
 
->END OF Tempest NOTICES AND INFORMATION
+>INFORMATION | O Σ R
 >>HORIZONTAL
 
 
