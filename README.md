@@ -11,7 +11,7 @@ APL: DTR
 
 ---
 
-[` RSI Copright ©-Void `](https://www.johannes-bauer.com/compsci/ecc)
+[` RSI Copright© - Void `](https://www.johannes-bauer.com/compsci/ecc)
 
 [` Copyright 2019 - OΣR `](https://github.com/HorizonTR/XTR/blob/master/Information.lc)
 
