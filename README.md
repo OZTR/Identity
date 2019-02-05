@@ -15,7 +15,7 @@ APL: DTR
 
 [` Copyright 2019 - OΣR `](https://github.com/HorizonTR/XTR/blob/master/Information.lc)
 
-[` Secure`](https://www.mcafeesecure.com/verify?host=ozturna.info)
+[` COMD-Trust`](https://www.mcafeesecure.com/verify?host=ozturna.info)
 
 ***
 
