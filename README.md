@@ -22,4 +22,7 @@ APL: DTR
 <!-- Note: This website is for bug reports, not general questions.
 Do not post issues about non-bitcoin versions of Electrum. -->
 
-```> END OF Tempest NOTICES AND INFORMATION HORIZONTAL``
+```
+> END OF Tempest NOTICES AND INFORMATION HORIZONTAL
+
+```
