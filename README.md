@@ -1,4 +1,3 @@
-***
 ---
 INFO: "Horizon-TR"
 TITLE: 'BTC'
