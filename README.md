@@ -11,10 +11,8 @@ APL: DTR
 
 ---
 
-[` RSI Copyright© - Void `](https://www.johannes-bauer.com/compsci/ecc)
-
-[` Copyright 2019 - OΣR `](https://github.com/HorizonTR/XTR/blob/master/Information.lc)
-
+[` RSI Copyright© - Void `](https://www.johannes-bauer.com/compsci/ecc)|
+[` Copyright 2019 - OΣR `](https://github.com/HorizonTR/XTR/blob/master/Information.lc)|
 [` Secure Lıcance`](https://www.mcafeesecure.com/verify?host=ozturna.info)
 
 ***
